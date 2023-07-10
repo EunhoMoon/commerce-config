@@ -1,2 +1,6 @@
 token:
-  secret: test
+  expiration_time: 3600000
+  secret: '{cipher}AQBrck18Ps26wk0SDIuCMrxN9Az3sHsHM5vUqJssS28x/rF8l3v25ElDDNNWtOkDIyCKK0CY2FwCijUoozREeHNcSKL85O04urezC0JYk9Hj+JeG86XHE239keR2L6vefrFTFlIa526D3Hj0Q18pfQMaaFNNWeLb4ZIKzk5s8ng9o0bdeTbZRKGF9dNvbhbPSx2X4sramB/XcuPulcMFDTPLaVxSuIO6pZwvMzHZJYabWwKyy+lxGcRownRMaUqA+9crF+1hNj1cGDIWo7awj06WfPE4SfY8qzmu+ss6w0iT3V8PrIMnjyoR432h0yGXVyk4Tfx8R+ZAJhZ/v9Ge7KkusBH976Rt/VdW7VqPQ0opuu8rvn41Ts4h36gLW0uUS34lsqVBChp9Io2Do9ClM0EE'
+
+gateway:
+  ip: http://192.168.0.21/
