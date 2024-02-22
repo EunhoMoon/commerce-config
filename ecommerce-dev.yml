@@ -1,5 +1,0 @@
-token:
-  expiration_time: 3600000
-  secret: super_super_secret_dev
-gateway:
-  ip: http://192.168.0.21/

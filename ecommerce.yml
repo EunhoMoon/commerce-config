@@ -1,0 +1,6 @@
+token:
+  secret: VERY_SUPER_SECRET_TEXT_WHEN_YOU_CANT_IMAGINE_IT
+  expiration_time: 7200000
+  
+gateway:
+  ip: http://192.168.0.21/
