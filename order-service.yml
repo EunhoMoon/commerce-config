@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ecommerce
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 1234
+
+token:
+  secret: '{cipher}934056fc06325a86255430650c917960708c619b61539013bf36ae4071d39e88eba8d194b95ed57f7e7a47d9bb02f95f49158b72673fdcf55ba97d441635c1fd'
+  
+gateway:
+  ip: http://192.168.0.21/
